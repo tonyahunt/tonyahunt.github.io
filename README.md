@@ -1,3 +1,4 @@
 # tonyahunt.github.io
 Teacher
-## Lesson title
+## LESSON TITLE
+### Lesson Description: This is a general description of the lesson.
